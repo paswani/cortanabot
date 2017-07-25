@@ -1,4 +1,5 @@
 #r "Newtonsoft.Json"
+#r "Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll"
 #load "EchoDialog.csx"
 
 using System;
