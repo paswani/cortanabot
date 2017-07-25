@@ -1,4 +1,3 @@
-//heystarthere
 using System;
 using System.Threading.Tasks;
 using Microsoft.Bot.Builder.Dialogs;
