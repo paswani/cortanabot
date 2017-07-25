@@ -160,6 +160,8 @@ context.Wait(MessageReceived);
     }
 }
 
+//towards the end
+
 [Serializable]
 public class QnADialog : QnAMakerDialog
 {
